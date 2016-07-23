@@ -1,0 +1,15 @@
+INSERT INTO `article` VALUES (14, 'Title3', 'Content3asdasd', 1, 2, '2016-7-5 02:04:05', '2016-7-7 04:50:51');
+INSERT INTO `article` VALUES (16, 'Title5', 'Content5asd', 1, 1, '2016-7-5 02:04:05', '2016-7-7 04:50:56');
+INSERT INTO `article` VALUES (17, 'Title6', 'Content6', 1, 6, '2016-7-5 02:04:05', '2016-7-5 02:04:05');
+INSERT INTO `article` VALUES (18, 'Title7', 'Content7', 1, 7, '2016-7-5 02:04:05', '2016-7-5 02:04:05');
+INSERT INTO `article` VALUES (19, 'Title8', 'Content8', 1, 8, '2016-7-5 02:04:05', '2016-7-5 02:04:05');
+INSERT INTO `article` VALUES (20, 'Title9', 'Content9', 1, 9, '2016-7-5 02:04:05', '2016-7-5 02:04:05');
+INSERT INTO `article` VALUES (21, 'asgasdgag', 'adfgdasf', 2, 0, '2016-7-5 11:44:31', '2016-7-5 11:44:31');
+INSERT INTO `article` VALUES (22, '都是vsdfgvs', '阿瑟发到付 ', 2, 0, '2016-7-6 00:54:50', '2016-7-6 00:54:50');
+INSERT INTO `article` VALUES (23, '阿大声道', '啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大事件不断部分与青蛙不是娿uasbdubausbdu啊啊护士都不顾亚比速度把预算表的话爱速度不爱上百度不是孤独爱USB断不苏杭的爸爸说u爱USB毒霸吧按时发大厦的房顶上鬼刀啊是的噶速度跟山东干傻大个发撒地方水电费水电费是的发生的地方地方是否', 2, 0, '2016-7-6 02:13:14', '2016-7-6 02:13:14');
+INSERT INTO `article` VALUES (24, 'asdas', 'asdasdasd', 2, 0, '2016-7-6 02:39:18', '2016-7-6 02:39:18');
+INSERT INTO `article` VALUES (25, 'fsdfsdf', 'sdfsdfsdf', 2, 0, '2016-7-6 02:39:40', '2016-7-6 02:39:40');
+INSERT INTO `article` VALUES (26, 'nihaoa a a a ', 'aaaaa实打实大声道', 2, 4, '2016-7-6 02:39:51', '2016-7-6 08:20:24');
+INSERT INTO `article` VALUES (27, 'daima', 'PATH=/usr/local/php5/bin:$PATH\r\nexport PATH', 2, 0, '2016-7-6 02:41:36', '2016-7-6 02:41:36');
+INSERT INTO `article` VALUES (28, 'dd', '    public function show($id){\r\n    	$article = Article::find($id);\r\n    	$navList = Category::get();\r\n    	return \\View::make(\'themes.default.article\',compact(\'article\',\'navList\'));\r\n    }', 2, 0, '2016-7-6 02:43:05', '2016-7-6 02:43:05');
+INSERT INTO `article` VALUES (29, 'sd', 'asd', 2, 4, '2016-7-6 07:20:30', '2016-7-6 07:20:30');
