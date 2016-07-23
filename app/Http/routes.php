@@ -31,5 +31,5 @@ Route::auth();
 
 
 Route::group(['middleware' => 'auth', 'prefix' => 'zhaotanjia'], function() {
-	Route::get('love','zhaotanjia\ImpressController@index');
+	Route::get('love',['as' => 'love','uses' => 'zhaotanjia\ImpressController@love']);
 });

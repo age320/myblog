@@ -9,7 +9,7 @@ use App\Http\Controllers\Controller;
 
 class ImpressController extends Controller
 {
-    public function index(){
-    	return \View::make('zhaotanjia.index');
+    public function love(){
+    	return \View::make('zhaotanjia.love');
     }
 }
