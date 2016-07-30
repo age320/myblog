@@ -9,10 +9,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1024" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <title>为中华之崛起 | 我媳妇儿说，一定要低调！</title>
-	<meta name="keywords" content="为中华之崛起,吕文翰,张建芳" />
-    <meta name="description" content="吕文翰和张建芳的秀恩爱网站。" />
-    <meta name="author" content="吕文翰_JohnLui" />
+    <title>媳妇，我爱你</title>
+	<meta name="keywords" content="交大黄渤AND叶子" />
+    <meta name="description" content="交大黄渤AND叶子的秀恩爱网站。" />
+    <meta name="author" content="交大黄渤" />
 
     <!--link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" /-->
 
@@ -41,8 +41,8 @@
     </div>
 
     <div id="title" class="step" data-x="0" data-y="0" data-scale="4">
-        <span class="try">小芳芳</span>
-        <h1>我爱你<sup>!</sup></h1>
+        <span class="try">赵叶子</span>
+        <h1>我爱你<sup>~</sup></h1>
         <!--span class="footnote"><sup>*</sup> no rhyme intended</span-->
     </div>
 

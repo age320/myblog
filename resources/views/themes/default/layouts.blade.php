@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="zh-cmn-Hans" prefix="og: http://ogp.me/ns#" class="han-init">
 <head>
+    <title>交大黄渤AND叶子</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-
+    <meta name="keywords" content="交大黄渤AND叶子" />
+    <meta name="description" content="交大黄渤AND叶子的空间">
 
     <link rel="stylesheet" href="{{ asset('themes/default/vendor/primer-css/css/primer.css') }}">
     <link rel="stylesheet" href="{{ asset('themes/default/vendor/primer-markdown/dist/user-content.min.css') }}">
@@ -63,7 +65,7 @@
     <div class="site-footer" role="contentinfo">
         <div class="copyright left mobile-block">
             © 2016
-            <span >zhaotanjia.com</span>
+            <span >陕ICP备16010522号</span>
             <a href="javascript:window.scrollTo(0,0)" class="right mobile-visible">TOP</a>
         </div>
 
@@ -72,7 +74,7 @@
                 <a href="javascript:window.scrollTo(0,0)" >TOP</a>
             </li>
         </ul>
-        <a href="https://www.zhaotanjia.com" target="_blank" aria-label="view source code">
+        <a href="https://github.com/age320/myblog" target="_blank" aria-label="view source code">
             <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
         </a>
 

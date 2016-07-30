@@ -9,7 +9,7 @@
                 <h1 class="collection-header">{{ $category->name}}</h1>
                 <div class="collection-info">
                     <span class="meta-info">
-                        如果不能成为拯救世界的神，那就堕落到征服世界的魔吧！
+                        我的心愿是：世界和平！
                     </span>
                 </div>
             </div>
